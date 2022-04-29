@@ -29,13 +29,13 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/lindsaysperring/GetHymnLyrics
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd GetHymnLyrics
 ```
 
 If using the java VSCode extensions simply open the project folder in vscode and run.
